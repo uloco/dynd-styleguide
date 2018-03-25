@@ -17,6 +17,6 @@ Download `.eslintrc.json` and add it to your project root directory.
 
 ```json
 "scripts": {
-	"precommit": "precise-commits"
+  "precommit": "precise-commits"
 }
 ```
